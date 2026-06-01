@@ -1,0 +1,1 @@
+/usr/bin/g++ @CMakeFiles/dtm_app.dir/objects1.rsp -o dtm_app @CMakeFiles/dtm_app.dir/linkLibs.rsp -L"/lsc/opt/cuda-12.5/targets/x86_64-linux/lib/stubs" -L"/lsc/opt/cuda-12.5/targets/x86_64-linux/lib"

@@ -1,0 +1,4 @@
+/home/raid/as3736/DTMTest/DTM_V9/build/CMakeFiles/dtm_app.dir
+/home/raid/as3736/DTMTest/DTM_V9/build/CMakeFiles/optix_ptx.dir
+/home/raid/as3736/DTMTest/DTM_V9/build/CMakeFiles/edit_cache.dir
+/home/raid/as3736/DTMTest/DTM_V9/build/CMakeFiles/rebuild_cache.dir
